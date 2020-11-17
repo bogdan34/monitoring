@@ -11,8 +11,4 @@
       "automerge": true
     }
   ],
-  "timezone": "Europe/Madrid",
-  "schedule": [
-    "before 2pm"
-  ]
 }
