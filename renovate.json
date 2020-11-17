@@ -10,5 +10,9 @@
       ],
       "automerge": true
     }
+  ],
+  "timezone": "Europe/Madrid",
+  "schedule": [
+    "every minute"
   ]
 }
